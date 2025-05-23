@@ -11,6 +11,8 @@ So then, you download the vertical fonts from this repo and apply them in KORead
 - I do not own these fonts. I simply rotated them for personal use.
 - These rotated fonts vary in quality. Most were generated using this [excellent script by the user *MyK00L*](https://github.com/MyK00L/tategakifont) and are very accurate. Some were manually tweaked in FontForge. And of course, I will take pull requests from anyone who has a font to add. So, expect inconsistency between fonts.
 
+# KOreader User Patch for using these Fonts
+- Use [the vertical-text user patch](https://github.com/plateaukao/koreader_patch_vertical_read?tab=readme-ov-file) to rotate the UI in KOreader when using vertical fonts. 
 
 # Examples
 
